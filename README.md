@@ -31,11 +31,18 @@
 
 ---
 
-## 📌 Projets récents
+## 🌟 À propos de moi
 
-- **Password Generator** (Générateur de mot de passe automatique / Python)
-- **Projet de Recherche Opérationnelle** ( Algorithmes des flots/ Python)
-- **Projet de Théorie des graphes** (Ordonnancement des graphes / Python)
+- 💪 Passioné par la musculation, j'ai acquis de la discipline et de la rigueur à travers cette activité
+- 🎮 Gamer régulier, j’aime aussi passer du temps dans les jeux vidéo
+- 🤝 J’aime apprendre en collaborant
 
----
+## 🔗 Me retrouver ailleurs
+
+- [LinkedIn](https://www.linkedin.com/in/julien-chan-peng-05b804251/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Julien-CP&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Julien-CP?style=social)
+
+
 
