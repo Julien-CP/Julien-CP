@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Bonjour, je suis Julien CHAN PENG</h1>
+<h3 align="center">Étudiant à EFREI Paris | Passionné par l'informatique </h3>
 
-<!--
-**Julien-CP/Julien-CP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 Actuellement en **L3** à EFREI Paris  
+- 🔭 Je travaille sur un projet d’**ordonnancement par graphe** en Python  
+- 🌱 J’approfondis mes compétences en développement et dans d'autre domaines de l'IT
+- 🧠 Intéressé par : Dev, IA, Data, Cybersécurité 
+- 📫 Contact : [julien.rafalimanana--chan-peng@efrei.net]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Langages et outils
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julien-CP&show_icons=true&theme=github_dark&hide=contribs"/>
+</p>
+
+---
+
+## 📌 Projets récents
+
+- **Password Generator** (Générateur de mot de passe automatique / Python)
+- **Projet de Recherche Opérationnelle** ( Algorithmes des flots/ Python)
+- **Projet de Théorie des graphes** (Ordonnancement des graphes / Python)
+
+---
+
