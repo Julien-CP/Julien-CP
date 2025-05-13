@@ -5,6 +5,8 @@
 <h1 align="center">Bonjour, je suis Julien CHAN PENG</h1>
 <h3 align="center">Étudiant à EFREI Paris | Passionné par l'informatique </h3>
 
+<img src="https://img.shields.io/badge/Stage%20recherché-Yes-green?style=for-the-badge"/>
+
 ---
 
 - 🎓 Actuellement en **L3** à EFREI Paris  
@@ -32,6 +34,14 @@
 
 ---
 
+## 📊 Langages les plus utilisés
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-CP&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
 ## 📈 Stats GitHub
 
 <p align="center">
@@ -52,6 +62,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Julien-CP&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Julien-CP?style=social)
+
+
 
 
 
