@@ -53,8 +53,8 @@
 
 ## 📜 Certifications
 
-- [https://www.credly.com/badges/72dad614-b93b-4bd4-bea8-5deaa5b15e9a] Introduction to Cybersecurity – Cisco ✔️
-- [https://www.credly.com/badges/34588ab4-89d8-4b72-a0ee-d9f420e957e1] Junior Cybersecurity Analyst Career Path – Cisco ✔️
+- Introduction to Cybersecurity – Cisco ✔️ [https://www.credly.com/badges/72dad614-b93b-4bd4-bea8-5deaa5b15e9a] 
+- Junior Cybersecurity Analyst Career Path – Cisco ✔️ [https://www.credly.com/badges/34588ab4-89d8-4b72-a0ee-d9f420e957e1] 
 
 ---
 
@@ -70,12 +70,6 @@
 - 💪 Passioné par la musculation, j'ai acquis de la discipline et de la rigueur à travers cette activité
 - 🎮 Gamer régulier, j’aime aussi passer du temps dans les jeux vidéo
 - 🤝 J’aime apprendre en collaborant
-
----
-
-## 🐍 Snake eat my contributions
-
-![snake gif](https://github.com/Julien-CP/Julien-CP/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
