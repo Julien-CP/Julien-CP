@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub+!;"/>
+</p>
+
 <h1 align="center">Bonjour, je suis Julien CHAN PENG</h1>
 <h3 align="center">Étudiant à EFREI Paris | Passionné par l'informatique </h3>
 
 ---
 
 - 🎓 Actuellement en **L3** à EFREI Paris  
-- 🔭 Je travaille sur un projet d’**ordonnancement par graphe** en Python  
 - 🌱 J’approfondis mes compétences en développement et dans d'autre domaines de l'IT
 - 🧠 Intéressé par : Dev, IA, Data, Cybersécurité 
 - 📫 Contact : [julien.rafalimanana--chan-peng@efrei.net]
