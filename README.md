@@ -5,11 +5,12 @@
 <h1 align="center">Bonjour, je suis Julien CHAN PENG</h1>
 <h3 align="center">Étudiant à EFREI Paris | Passionné par l'informatique </h3>
 
-<img src="https://img.shields.io/badge/Stage%20recherché-Yes-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Alternance%20recherchée-Yes-green?style=for-the-badge"/>
 
 ---
 
-- 🎓 Actuellement en **L3** à EFREI Paris  
+- 🎓 Actuellement en **L3** à EFREI Paris
+- ⏳ Diplôme prévu : 2027 – plus que 24 mois !
 - 🌱 J’approfondis mes compétences en développement et dans d'autre domaines de l'IT
 - 🧠 Intéressé par : Dev, IA, Data, Cybersécurité 
 - 📫 Contact : [julien.rafalimanana--chan-peng@efrei.net]
@@ -50,16 +51,38 @@
 
 ---
 
+## 📜 Certifications
+
+- [https://www.credly.com/badges/72dad614-b93b-4bd4-bea8-5deaa5b15e9a] Introduction to Cybersecurity – Cisco ✔️
+- [https://www.credly.com/badges/34588ab4-89d8-4b72-a0ee-d9f420e957e1] Junior Cybersecurity Analyst Career Path – Cisco ✔️
+
+---
+
+## 🌐 Langues
+
+- 🇫🇷 Français (natif)
+- 🇬🇧 Anglais (avancé)
+
+---
+
 ## 🌟 À propos de moi
 
 - 💪 Passioné par la musculation, j'ai acquis de la discipline et de la rigueur à travers cette activité
 - 🎮 Gamer régulier, j’aime aussi passer du temps dans les jeux vidéo
 - 🤝 J’aime apprendre en collaborant
 
+---
+
+## 🐍 Snake eat my contributions
+
+![snake gif](https://github.com/Julien-CP/Julien-CP/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔗 Me retrouver ailleurs
 
 - [LinkedIn](https://www.linkedin.com/in/julien-chan-peng-05b804251/)
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Julien-CP&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Julien-CP?style=social)
 
