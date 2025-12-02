@@ -5,15 +5,6 @@
 <h1 align="center">Bonjour, je suis Julien CHAN PENG</h1>
 <h3 align="center">Étudiant à EFREI Paris | Passionné par l'informatique </h3>
 
-<img src="https://img.shields.io/badge/Alternance%20recherchée-Yes-green?style=for-the-badge"/>
-
----
-
-- 🎓 Actuellement en **L3** à EFREI Paris
-- ⏳ Diplôme prévu : 2027 – plus que 24 mois !
-- 🌱 J’approfondis mes compétences en développement et dans d'autre domaines de l'IT
-- 🧠 Intéressé par : Dev, IA, Data, Cybersécurité 
-- 📫 Contact : [julien.rafalimanana--chan-peng@efrei.net]
 
 ---
 
